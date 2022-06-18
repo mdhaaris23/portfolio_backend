@@ -1,0 +1,22 @@
+{
+    "name":"Md Haaris",
+    "emailId":"mdhaaris23@gmail.com",
+    "address": {
+        "houseName":"Jama Masjid Gali",
+        "streetName":"Old Station Road, Rourkela",
+        "state":"Odisha",
+        "country":"India",
+        "pinCode":"769001"
+    },
+    "contactNumber":"+918093484763",
+    "description":"Specialist Programmer at Infosys, Java Angular Full stack developer",
+    "hobbies":[
+        "Gaming","Cubes"
+    ],
+    "skillTags":[
+        "Java","Spring boot"
+    ],
+    "fbLink":"https://www.facebook.com/profile.php?id=100005746458726",
+	"linkedInLink":"https://www.linkedin.com/in/md-haaris-a7712b157/",
+	"leetCodeLink":"https://leetcode.com/mdhaaris23/"
+}
