@@ -22,7 +22,7 @@ public class CandidateServiceImpl implements CandidateService {
 	@Override
 	public String addCandidate(CandidateDTO candidateDTO) {
 		candidateRepo.save(CandidateDTO.getCandidate(candidateDTO));
-		return "Candidate successfully registered!! :)";
+		return "Candidate data successfully registered!! :)";
 	}
 
 	@Override
